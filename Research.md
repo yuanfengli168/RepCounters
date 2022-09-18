@@ -12,7 +12,11 @@
 - How to set up software on iphone, and
 for Apple Store. 
 - How to create account service in go for all 
-customers?
+customers? 
+
+Web Page Version: 
+- Backend: Java, SpringBoot
+- Frontend: React, TypeScript
 
 
 ## Design & UI: 
