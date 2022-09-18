@@ -5,7 +5,7 @@
 - frontend: Typescript, React
 
 ## Rules: 
-- Git push format: "RepCounters: Added ReadMe", if you are on a branch: "RepCounters-Rep-1: Created the frontend part".
+- Git push format: "RepCounters: Added ReadMe", if you are on a branch: "RepCounters/Rep-1/CreateLandingPage: Created the landing page".
 
 
 ## Jira dashboard
